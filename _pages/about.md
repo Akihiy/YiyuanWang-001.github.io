@@ -6,18 +6,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Yiyuan Wang, and I currently reside in ZhuHai GuangDong. Now I am a Phd Student supervised by [Prof. Wentao Cheng](https://wtchengcv.github.io/) in BNBU(HKBU-ZhuHai). And my research interests focus on **3D Computer Vision**, **Vision-Language Foundation Model**, and **Generative AI**.<br>
-I once interned at the BeiJing DMS Lab, where I studied contrastive learning and multi-view learning under the guidance of [Prof. Gengyu Lyu](https://gengyulyu.github.io/homepage/)and [Dr. Yuena Lin](https://yuenalin.github.io/).<br> 
+My name is Yiyuan Wang, and I currently reside in Hongkong China. Now I am a Phd Student supervised by [Prof. Wentao Cheng](https://wtchengcv.github.io/) in HKBU. And my research interests focus on **3D Computer Vision**, **Vision-Language Foundation Model**, and **Test-Time Training**.<br>
+I once interned at the BeiJing DMS Lab, where I studied contrastive learning and multi-view learning under the guidance of [Prof. Gengyu Lyu](https://gengyulyu.github.io/homepage/)and [Dr. Yuena Lin](https://yuenalin.github.io/). I am also conducting remote research visits at the University of Hong Kong and Cornell University in the United States as a PhD student.<br> 
 
 
 If you would like to communicate or collaborate with me, please send an email to: [YiyuanWang001@outlook.com](mailto:YiyuanWang001@outlook.com)<br>
 
 📢**Recent News**: <br>
 
-🚀🚀joined BNBU(HKBU-ZhuHai) as a PhD student in 2025.09 <br>
+🚀🚀joined HKBU as a PhD student in 2025.09 <br>
 🚀🚀obtained my Bachelor's degree with honors and was recognized as an outstanding graduate from BJUT in 2025.06 <br>
+{% comment %}
 🚀🚀One paper accepted in ICLR-2025 <br>
 
+{% endcomment %}
 
 
 
@@ -27,8 +29,7 @@ If you would like to communicate or collaborate with me, please send an email to
 
 
 
-
-
+{% comment %}
 
 <div style="margin-top: 200px; display: flex; align-items: flex-start; gap: 15px; max-width: 800px; margin-left: auto; margin-right: auto;">
     <div style="flex: 0 0 200px;">
@@ -41,3 +42,4 @@ If you would like to communicate or collaborate with me, please send an email to
         <p style="margin: 0; font-size: 0.85em; line-height: 1.4;">In this paper, we propose MAMC to address the problems caused by the feature heterogeneity and the information redundancy. Through introducing the multi-scale alignment module, MAMC sufficiently mines the inter-view commonality to tighten instances and inter-class difference to delimit the decision boundaries.</p>
     </div>
 </div>
+{% endcomment %}
